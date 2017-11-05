@@ -1,0 +1,16 @@
+GEM
+  specs:
+    highline (1.7.8)
+    options (2.3.2)
+    progress_bar (1.1.0)
+      highline (~> 1.6)
+      options (~> 2.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  progress_bar
+
+BUNDLED WITH
+   1.14.6
